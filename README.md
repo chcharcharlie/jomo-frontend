@@ -1,1 +1,1 @@
-# jomo-frontend-internal
+# jomo-frontend
